@@ -9,11 +9,11 @@ A differenza dei motori tradizionali che ruotano in modo continuo, rimane fisso 
 
 Può essere:
 
-  _ _° elettrico_ _
+  _° elettrico_ 
   
-  _ _° pneumatico_ _
+  _° pneumatico_ 
   
-  _ _° idraulico._ _
+  _° idraulico._ 
   
   
 
