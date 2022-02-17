@@ -5,8 +5,12 @@
 
 Il servomotore è un particolare tipo di motore, generalmente di piccola potenza. 
 
-A differenza dei motori tradizionali che ruotano in modo continuo, rimane fisso su una posizione in base al segnale periodico utilizzato per comandarlo.
-Può essere elettrico, pneumatico, idraulico.
+A differenza dei motori tradizionali che ruotano in modo continuo, rimane fisso su una posizione
+
+Può essere: 
+  ° elettrico
+  ° pneumatico
+  ° idraulico.
 
 I servomotori trovano applicazione nei controlli di posizione,
 nelle macchine a controllo numerico, 
