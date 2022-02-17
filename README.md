@@ -5,9 +5,7 @@
 
 Il servomotore è un particolare tipo di motore, generalmente di piccola potenza. 
 
-A differenza dei motori tradizionali che ruotano in modo continuo, rimane fisso su una posizione
-
-Può essere:
+A differenza dei motori tradizionali che ruotano in modo continuo, rimane fisso su una posizione;   Può essere:
 
   _° elettrico_ 
   
