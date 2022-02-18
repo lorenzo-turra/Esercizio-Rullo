@@ -1,4 +1,4 @@
-Esercizio di Lorenzo Turra 
+_Esercizio di Lorenzo Turra_
 
 
 ## _Esercizio-Rullo_
