@@ -31,3 +31,4 @@ _(in realtà esistono anche alcuni servo che ruotano a 360° ma sono una minoran
  
  
  ![foto rappresentativa schema elettrico schedina](https://github.com/lorenzo-turra/Esercizio-Rullo/blob/main/SchemaElettricoSchedina.PNG)
+ ![foto rappresentativa schema elettrico servomotore](https://github.com/lorenzo-turra/Esercizio-Rullo/blob/main/SchemaElettricoServoMotore.PNG)
