@@ -2,6 +2,8 @@
 
 
 **_SERVOMOTORE_**
+
+![immagine rappresentativa servomotore](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pintoelettronica.com%2Fservomotori-attuatori-servomotore-futaba-s3003-3-2kg-cm.1.2.218.gp.5181.uw&psig=AOvVaw0R0epkCqf9KxWuVaCFg8Ts&ust=1645256380891000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCND01OffiPYCFQAAAAAdAAAAABAG)
  
  _inntroduzione teorica_
  
