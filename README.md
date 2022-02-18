@@ -2,7 +2,9 @@
 
 
 **SERVOMOTORE**
-
+ 
+ _inntroduzione teorica_
+ 
 Il servomotore è un particolare tipo di motore, generalmente di piccola potenza. 
 
 A differenza dei motori tradizionali che ruotano in modo continuo, rimane fisso su una posizione;   Può essere:
@@ -14,10 +16,8 @@ A differenza dei motori tradizionali che ruotano in modo continuo, rimane fisso 
   _° idraulico._ 
   
   
-
 I servomotori trovano applicazione nei controlli di posizione,
-nelle macchine a controllo numerico, 
-nei sistemi automatici di regolazione e nelle periferiche di sistema, 
+nelle macchine a controllo numerico e nei sistemi automatici di regolazione e nelle periferiche di sistema, 
 come stampanti e plotter.
 
 
