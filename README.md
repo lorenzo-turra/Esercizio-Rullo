@@ -1,9 +1,10 @@
 # Esercizio-Rullo
 
 
-**SERVOMOTORE**
+**_SERVOMOTORE_**
  
  _inntroduzione teorica_
+ 
  
 Il servomotore è un particolare tipo di motore, generalmente di piccola potenza. 
 
@@ -19,7 +20,8 @@ A differenza dei motori tradizionali che ruotano in modo continuo, rimane fisso 
 I servomotori trovano applicazione nei controlli di posizione,
 nelle macchine a controllo numerico e nei sistemi automatici di regolazione e nelle periferiche di sistema, 
 come stampanti e plotter.
-
+Possono ruotare con un angolo compreso tra 0° e 180°, mantenendo stabilmente la posizione raggiunta.
+_(in realtà esistono anche alcuni servo che ruotano a 360° ma sono una minoranza)_
 
 
 
