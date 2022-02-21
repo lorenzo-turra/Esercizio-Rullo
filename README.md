@@ -65,4 +65,4 @@ TaskSmistaOggettpo è necessaria per il controllo del servomotore, tramite il qu
  
 Dobbiamo generare un segnale impulsivo con periodo di _20ms_ e impostare il _duty cycle_ in modo da avere la parte impulsiva con durata tra _1 e 2ms_. _L’ampiezza_ del segnale dipende dal servomotore che andiamo a scegliere e di solito compresa tra _3,3V e 7,2V_
 
-***Grazie della visione --- Lorenzo Turra***
+***Grazie della visione --- Lorenzo Turra 5L***
