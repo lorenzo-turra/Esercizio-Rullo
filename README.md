@@ -69,5 +69,6 @@ Dobbiamo generare un segnale impulsivo con periodo di _20ms_ e impostare il _dut
 
 link di riferimento 
 [clicca qui](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 link di riferimento
 [clicca qui](https://docs.google.com/presentation/d/1yTK0-TrzFx8WaVb63fAroDZPwvzK_yD7E4AlsnlEozw/edit#slide=id.g109a595099c_0_214)
