@@ -49,6 +49,7 @@ Modulando quindi quindi queste durate durante l’invio di un treno di impulsi s
 
 
 ![immagine rappresentativa duty circle con servomotore](https://www.meccanismocomplesso.org/wp-content/uploads/2020/08/Arduino-PWM-duty-cycle-angolo-del-servo-motore.jpg)
+
 _immagine rappresentativa duty circle con servomotore_
   
 
